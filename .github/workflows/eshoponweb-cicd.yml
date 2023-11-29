@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-jrb001
   LOCATION: usgovvirginia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/e74bfb74-4e3a-455d-8b4c-37513e06f3c9
+  SUBSCRIPTION-ID: e74bfb74-4e3a-455d-8b4c-37513e06f3c9
   WEBAPP-NAME: az400-webapp-jrb001
 
 
